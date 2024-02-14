@@ -13,7 +13,7 @@ char *const newargv[]={"/bin/ls","-al", NULL};
 
 printf("before exec\n");
 execve("/bin/ls",newargv,NULL);  // ls will be loaded in current process adress space of a program
-								//also ls command will executed and list the files in current directory.
+			       //also ls command will executed and list the files in current directory.
 printf("after exec\n"); 
 
 return 0;
