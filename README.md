@@ -59,11 +59,14 @@ git@github.com:bandarikarthik/Linux_system_programming-.git
 ===============================================================================================================================================
 
 After complete installation sample create file and save in machine 
-
 git status
+
 git add . 
+
 git commit -m"changes you made need to write as comment"
+
 git push
+
 
 
 
