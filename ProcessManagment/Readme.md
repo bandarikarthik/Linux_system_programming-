@@ -1,1 +1,1 @@
-process managment topics in Operating system 
+Process Managment topics in Operating system
