@@ -58,7 +58,15 @@ git@github.com:bandarikarthik/Linux_system_programming-.git
 
 ===============================================================================================================================================
 
+
+
+
 After complete installation sample create file and save in machine 
+
+suppose some thing deleted first need to update using 
+
+git pull
+
 git status
 
 git add . 
